@@ -1,0 +1,8 @@
+[project]
+name = "mssqltest"
+version = "0.1.0"
+description = "Use SQLGlot, SQLite, Pytest to test specific blocks of SQL"
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2"]
